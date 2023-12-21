@@ -1,0 +1,5 @@
+CREATE TABLE entries (
+  id INTEGER NOT NULL PRIMARY KEY,
+  body TEXT NOT NULL,
+  created_at TEXT NOT NULL
+)
